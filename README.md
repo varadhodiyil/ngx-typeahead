@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.org/orizens/ngx-typeahead.svg?branch=master)](https://travis-ci.org/orizens/ngx-typeahead)
 
 # Angular Typeahead Component
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/orizens/ngx-typeahead.svg)](https://greenkeeper.io/)
 This is an extract of the typeahead component from the open source [Echoes Player](http://github.com/orizens/echoes-player).  
 Its built with **JSONP** support by default.  
 Additional remote sources are soon to come.  
